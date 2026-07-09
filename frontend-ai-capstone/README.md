@@ -3,6 +3,9 @@
 ## Author
 Vinay Chandra Nayak
 
+3rd Year Student
+Branch - CSE
+
 ## Stack
 
 - HTML
